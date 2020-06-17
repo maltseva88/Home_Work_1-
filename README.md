@@ -184,3 +184,14 @@ Secure online payments
 * Why are these technologies appropriate for your solution?
 These are the currently used technology by the competitors in the market place. Combining technologies will accelerate the progress in the field. Computational power and combining technologies will provide more opportunities to gain the market share and offer more service to the users. 
 
+References:
+  https://en.wikipedia.org/wiki/Square,_Inc.
+  https://www.crunchbase.com/organization/square/recent_investments#section-overview
+  https://s21.q4cdn.com/114365585/files/doc_financials/2020/Q1/2020-Q1-Shareholder-Letter-Square.pdf
+  https://www.investopedia.com/articles/tech/021017/square.asp
+  https://www.sec.gov/Archives/edgar/data/1512673/000119312515382249/d937622d424b4.htm
+  https://squareup.com/us/en/about
+  https://www.crunchbase.com/organization/square/technology#section-overview
+  https://www.fundera.com/blog/square-competitors
+  https://businessdegrees.uab.edu/blog/how-square-revolutionized-payment-processing/
+  https://www.spglobal.com/marketintelligence/en/news-insights/blog/uncertainty-clouds-ovp-vendor-outlook-despite-increased-ott-usage
