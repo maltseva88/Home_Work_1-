@@ -185,6 +185,8 @@ Secure online payments
 These are the currently used technology by the competitors in the market place. Combining technologies will accelerate the progress in the field. Computational power and combining technologies will provide more opportunities to gain the market share and offer more service to the users. 
 
 References:
+
+
   https://en.wikipedia.org/wiki/Square,_Inc.
   https://www.crunchbase.com/organization/square/recent_investments#section-overview
   https://s21.q4cdn.com/114365585/files/doc_financials/2020/Q1/2020-Q1-Shareholder-Letter-Square.pdf
