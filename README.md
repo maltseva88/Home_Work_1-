@@ -184,7 +184,7 @@ Secure online payments
 * Why are these technologies appropriate for your solution?
 These are the currently used technology by the competitors in the market place. Combining technologies will accelerate the progress in the field. Computational power and combining technologies will provide more opportunities to gain the market share and offer more service to the users. 
 
-##References:
+## References:
 
 
   https://en.wikipedia.org/wiki/Square,_Inc.
