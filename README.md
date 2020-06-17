@@ -151,7 +151,7 @@ See the graphs for Industry Comparison of PayPal, SQ, and Adyen.
 
 ![](404213178.png)
 
-1[]
+![](404213192.png)
 
 
 ## Recommendations
