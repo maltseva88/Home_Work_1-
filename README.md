@@ -149,7 +149,7 @@ Processing Payment Volume
 SQ is in trend with the industry growth especially in the peer-to-peer and online payments. Cash App is showing the higher growth among all SQ’s business segments (CashApp a gross profit grew 115% year over year). Adyen, the Dutch-based B2B financial technology company that handles back-end payments for Uber Technologies Inc., Facebook Inc. and smaller merchants, said its net revenue grew 34% year on year. 
 See the graphs for Industry Comparison of PayPal, SQ, and Adyen.
 
-![](image 404213192.png)
+![](master/404213178.png)
 
 
 ## Recommendations
