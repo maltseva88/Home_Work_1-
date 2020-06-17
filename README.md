@@ -14,7 +14,7 @@ Square_Case_Study
 
 In 2009 when Jack Dorsey and Jim McKelvey (a friend of Dorsey) were unable to complete a $2,000 sale of glass faucets and fittings because they could not accept credit cards. 
 
-* Funding[1]: 
+* Funding: 
 Square received Angel Investments from :
 Marissa Mayer, Kevin Rose, Biz Stone, Dennis Crowley, Shawn Fanning, MC Hammer, and Esther Dyson. 
 
@@ -187,7 +187,7 @@ These are the currently used technology by the competitors in the market place. 
 ## References
 
 
-  1). https://en.wikipedia.org/wiki/Square,_Inc.
+  https://en.wikipedia.org/wiki/Square,_Inc.
   https://www.crunchbase.com/organization/square/recent_investments#section-overview
   https://s21.q4cdn.com/114365585/files/doc_financials/2020/Q1/2020-Q1-Shareholder-Letter-Square.pdf
   https://www.investopedia.com/articles/tech/021017/square.asp
