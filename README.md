@@ -35,7 +35,9 @@ Debt Financing    April 7th 2014   :   $100M
 Series E funding  October 3rd 2014 :   $150M  from Goldman Sachs, Rizvi Traverse Management, and GIC Private Limited.
 
 Venture Round funding July 2015   : N/A
+
 IPO November 19,2015 Underwriters: J.P. Morgan, Goldman Sachs, Morgan Stanley.
+
 Secondary Offering July 31st, 2016
 
 
