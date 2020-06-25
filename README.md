@@ -1,5 +1,5 @@
-# Home_Work_1-
-Square_Case_Study
+# *Home_Work_1 Square_Case_Study*
+
 # Square Inc 
 
 ![](logo.png)
@@ -47,7 +47,7 @@ Secondary Offering July 31st, 2016
 
 Square is an commerce ecosystem and aims to make commerce easy. The Company enables its sellers start, run and grow their businesses. It combines software with hardware to enable sellers to turn mobile devices and computing devices into payments and point-of-sale solutions. The Company enables its sellers start, run and grow their businesses. Square used to accept credit card payments, track sales and inventory, and obtain financing. 
 
-* Intended customer ?  
+* *Intended customer*:  
 
 Small businesses. In 2019, more than 30 million monthly active users  including small business owners and regular users. 
 Small Businesses are “sellers” from the following industries : 
@@ -59,14 +59,14 @@ Square Capital – small business owners-borrowers, Paycheck Protection Program 
 Cash app ecosystem – regular people. Peer to peer transaction.   
 
 
-*What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+* *What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)*
 
 Company started offering a technology capable of aggregating merchant services and mobile payments into a single, easy-to-use service. It made it easy for small businesses to accept credit card payments, track sales and inventory, and obtain financing. Business owners can also use the app to send and track invoices, customize products, email receipts, apply discounts, administer refunds, access real-time sales data, and track inventory in real-time.
 
 Cash App allows uses to use bitcoin. 
 
 
-* Which technologies are they currently using, and how are they implementing them? 
+* *Which technologies are they currently using, and how are they implementing them?* 
 
 Hardware Technology:
  
@@ -84,11 +84,11 @@ The intellectual property of Square includes 702 registered patents primarily in
 
 ## Landscape:
 
-* What domain of the financial industry is the company in?
+* *What domain of the financial industry is the company in?*
 
 Financial services, Mobile Payment, Point of sale
 
-* What have been the major trends and innovations of this domain over the last 5-10 years?
+* *What have been the major trends and innovations of this domain over the last 5-10 years?*
 The company expanded in all cashless businesses from the hardware device to cash app ecosystem. Most of the innovations came through the M&A activity. Square made several M&A transaction to innovate and grow in the field of the Mobile Payment and Financial services: 
 
 
@@ -112,7 +112,7 @@ M&A Activity Track Record :
 - Ridecell - is an intelligent platform provider for car sharing, ride sharing and autonomous fleet management.
 - Businesses use - BirdEye -  to manage their reviews, be found online, gather customer feedback, improve operations and increase revenue.
 
-* What are the other major companies in this domain?
+* *What are the other major companies in this domain?*
 
 Top Square’s Competitors :
 
@@ -125,7 +125,7 @@ Shopify
 
 ## Results
 
-* What has been the business impact of this company so far?
+* *What has been the business impact of this company so far?*
 
 Overall impact over the 10 years horizon: 
 
@@ -138,7 +138,7 @@ Square’s impact during Covid-19:
 Cashless payment spiked during the Covid-19 pandemic. According to Square,  8% of U.S. sellers identified as cashless on March 1. By April 23, that number jumped to 31%. The rapid growth was way beyond what would be considered normal, but then so were widespread quarantines and lockdowns.
 
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+* *What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?*
 
 Key Metric: 
 Number of transactions; 
@@ -146,7 +146,7 @@ New accounts / New clients to service as merchants
 Processing Payment Volume 
 
 
-* How is your company performing relative to competitors in the same domain?
+* *How is your company performing relative to competitors in the same domain?*
 
 SQ is in trend with the industry growth especially in the peer-to-peer and online payments. Cash App is showing the higher growth among all SQ’s business segments (CashApp a gross profit grew 115% year over year). Adyen, the Dutch-based B2B financial technology company that handles back-end payments for Uber Technologies Inc., Facebook Inc. and smaller merchants, said its net revenue grew 34% year on year. 
 See the graphs for Industry Comparison of PayPal, SQ, and Adyen.
@@ -158,7 +158,7 @@ See the graphs for Industry Comparison of PayPal, SQ, and Adyen.
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* *If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)*
 
 Cashless payments accelerate and pandemic safe. If I were Jack Dorsey I would expand SQ online payments business for the regular people making them pay their household expenses with square (connect all the essential household payments such as ConEdison, Rent Payments, Spectrum etc.) offering cash back if you pay with SQ and giving extra discount on setting an autopay. 
 Go international with the peer to peer online apps. Making it easier make wire transfers across the globe. Example: I am a freelancer working remote from Indonesian island, I want to pay my rent for a room I am renting via CashApp or any other app connected to the cashless ecosystem getting a fair currency exchange. 
@@ -166,12 +166,12 @@ Go international with the peer to peer online apps. Making it easier make wire t
 Future of the work is remote: If people transact via CashApp so it would be easier if peole would get their paychecks to the CashApp too, eliminating the banks. Encorage small businesses to pay their employees directly to mobile apps.  
 
 
-* Why do you think that offering this product or service would benefit the company?
+* *Why do you think that offering this product or service would benefit the company?*
 
 Money flow is higher. Gather information on the customers (Know Your Customer) better serve the needs and provide tailored opportunities. Getting a market share of the retail banks money making mechanisms. 
 
 
-* What technologies would this additional product or service utilize?
+* *What technologies would this additional product or service utilize?*
 
 Computational Technologies! 
 
@@ -183,7 +183,7 @@ Face Recognition
 Secure online payments
 
 
-* Why are these technologies appropriate for your solution?
+* *Why are these technologies appropriate for your solution?*
 These are the currently used technology by the competitors in the market place. Combining technologies will accelerate the progress in the field. Computational power and combining technologies will provide more opportunities to gain the market share and offer more service to the users. 
 
 ## References
