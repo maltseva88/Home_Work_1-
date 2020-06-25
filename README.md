@@ -22,25 +22,25 @@ Marissa Mayer, Kevin Rose, Biz Stone, Dennis Crowley, Shawn Fanning, MC Hammer, 
 
 Rounds of funding :
 
-Series A funding  November 1st 2009:   $10M   from Khosla Ventures
+> Series A funding  November 1st 2009:   $10M   from Khosla Ventures
 
-Series B funding  January 10th 2011:   $27.5M from Sequoia Capital
+> Series B funding  January 10th 2011:   $27.5M from Sequoia Capital
 
-Series C funding  June 28th 2011   :   $100M  from Kleiner Perkins
+> Series C funding  June 28th 2011   :   $100M  from Kleiner Perkins
 
-Series C funding  December 9th 2011:   $3M    from N/A
+> Series C funding  December 9th 2011:   $3M    from N/A
 
-Series D funding  September 17th 2012: $200M  from Citi Ventures, Rizvi Traverse Management, and Starbucks
+> Series D funding  September 17th 2012: $200M  from Citi Ventures, Rizvi Traverse Management, and Starbucks
 
-Debt Financing    April 7th 2014   :   $100M 
+> Debt Financing    April 7th 2014   :   $100M 
 
-Series E funding  October 3rd 2014 :   $150M  from Goldman Sachs, Rizvi Traverse Management, and GIC Private Limited.
+> Series E funding  October 3rd 2014 :   $150M  from Goldman Sachs, Rizvi Traverse Management, and GIC Private Limited.
 
-Venture Round funding July 2015   : N/A
+> Venture Round funding July 2015   : N/A
 
-IPO November 19,2015 Underwriters: J.P. Morgan, Goldman Sachs, Morgan Stanley.
+> IPO November 19,2015 Underwriters: J.P. Morgan, Goldman Sachs, Morgan Stanley.
 
-Secondary Offering July 31st, 2016
+> Secondary Offering July 31st, 2016
 
 
 ## Business Activities:
