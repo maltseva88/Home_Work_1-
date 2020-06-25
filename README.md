@@ -12,7 +12,7 @@ Square_Case_Study
 
 * Founders of the company: Jack Dorsey, Jim McKelvey
 
-* Idea for the company : 
+# Idea for the company : 
 
 In 2009 when Jack Dorsey and Jim McKelvey (a friend of Dorsey) were unable to complete a $2,000 sale of glass faucets and fittings because they could not accept credit cards. 
 
