@@ -6,11 +6,11 @@
 
 ## Overview and Origin: 
 
-* Square Inc (Ticker: SQ) 
+* [Square Inc](https://squareup.com) (Ticker: [SQ](https://finance.yahoo.com/quote/SQ?p=SQ&.tsrc=fin-srch)) 
 
-* Incorporated in: February 1st, 2009
+* Incorporated in: February 1st, 2009 in [St. Louis, Missouri](https://en.wikipedia.org/wiki/St._Louis)
 
-* Founders of the company: Jack Dorsey, Jim McKelvey
+* Founders of the company: [Jack Dorsey](https://en.wikipedia.org/wiki/Jack_Dorsey), [Jim McKelvey](https://en.wikipedia.org/wiki/Jim_McKelvey)
 
 # Idea for the company : 
 
