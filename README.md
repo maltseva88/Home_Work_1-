@@ -1,6 +1,8 @@
 # Home_Work_1-
 Square_Case_Study
-# Square Inc
+# Square Inc 
+
+![](logo.png)
 
 ## Overview and Origin: 
 
