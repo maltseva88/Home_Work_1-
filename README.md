@@ -116,12 +116,14 @@ M&A Activity Track Record :
 
 Top Square’s Competitors :
 
-Intuit QuickBooks GoPayment
-PayPal
-Adyen
-ShopKeep
-Clover
-Shopify
+Intuit, 
+QuickBooks, 
+GoPayment, 
+PayPal, 
+Adyen, 
+ShopKeep, 
+Clover, 
+Shopify.
 
 ## Results
 
