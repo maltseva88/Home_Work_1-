@@ -142,11 +142,8 @@ Cashless payment spiked during the Covid-19 pandemic. According to Square,  8% o
 
 * *What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?*
 
-Key Metric: 
-Number of transactions; 
-New accounts / New clients to service as merchants
-Processing Payment Volume 
-
+Key Metric:  
+Number of transactions, New accounts / New clients to service as merchants, Processing Payment Volume.  
 
 * *How is your company performing relative to competitors in the same domain?*
 
