@@ -1,4 +1,4 @@
-# *Home_Work_1 Square_Case_Study*
+# *Square_Case_Study*
 
 # Square Inc 
 
